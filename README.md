@@ -1,3 +1,16 @@
+##Dive in to the token-powered commerce experience built using 
+@Shopify
+ and 
+@thirdweb
+ 's robust API's and blockchain components.
+
+• Tokengated Access 
+• Discounts and Rewards for exclusive NFT holders
+• Mint NFT's tied to the physical product; No more Fakes.
+• Brand Collaboration [With Jacob&co in our example app]
+• Create personalised products for premium users.
+Premium customers can design and customize products and mint a NFT of their product; which can be used in virtual worlds/games.
+
 ## Getting Started
 
 Create a project using this example:
